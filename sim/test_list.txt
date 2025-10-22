@@ -1,0 +1,7 @@
+tb_reset
+tb_get_descriptor
+tb_set_address
+tb_ep1_loopback
+tb_data_toggle
+tb_stall
+tb_random_stress
